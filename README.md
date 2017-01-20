@@ -1,6 +1,6 @@
 # Ohjelmistosuunnittelu
 
-
+![](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 ## Jee
 
